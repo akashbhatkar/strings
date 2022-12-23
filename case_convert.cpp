@@ -18,11 +18,7 @@ int main()
         *it1=*it1+32;
 
     }
-    else if((*it1>=97)&&(*it1<=122))
-    {
-        *it1=*it1-32;
 
-    }
     }
     cout<<str<<endl;
 }
